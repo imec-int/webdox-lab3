@@ -1,0 +1,6 @@
+[submodule "tools/nofloserver"]
+	path = tools/nofloserver
+	url = https://github.com/mixbe/rampnofloserver
+[submodule "tools/webdox_noflo_components"]
+	path = tools/webdox_noflo_components
+	url = https://github.com/kaosbeat/webdox_noflo_components
