@@ -1,15 +1,39 @@
-##A long time from now, in a galaxy far far away
+##disclaimer
+
+
+
+##<h2>A long time from now, in a galaxy far far away</h2>
 ![aliens](http://www.pixeljoint.com/files/icons/full/alien_animated.gif "ALIENS")
-(src http://www.pixeljoint.com/pixelart/39566.htm)
+
+<h6>(src http://www.pixeljoint.com/pixelart/39566.htm)</h6>
+
+
+
+#data
+![breimachine](assets/img/ponskaartklein.jpg "ponskkaart")
+<aside class='notes'></aside>
+
+
+#data
+![breimachine](assets/img/ponskaart.jpg "ponskkaart")
+<aside class='notes'>data contains a story</aside>
+
 
 
 ##WOW!
-![](/assets/img/wowsignal.jpg)
+![](assets/img/wowsignal.jpg)
 (src https://seelio.com/w/aif/persuasive-essay)
 
 
 ##later at the data processing farm
 ![](https://24.media.tumblr.com/0e2c81d283bab9f7f54d57693b72a180/tumblr_mi8b5zdM0S1qe0nlvo1_1280.jpg)
+
+
+
+#noise vs signal
+![](assets/img/snr.jpg)
+####[Spectrogram] AFX / ΔMi−1 = −∂Σn=1NDi[n][Σj∈C{i}Fji[n − 1] + Fexti[[n−1]]
+
 
 
 ##code
@@ -89,20 +113,22 @@
 
 
 
+http://www.fullstack.io/choc/
+
 
 
 ##taalgrens
-![taalgrens](/assets/img/story1.jpg "taalgrens")
+![taalgrens](assets/img/story1.jpg "taalgrens")
 
 
 
 ##pinten aan het frituur met strava op
-![pinten](/assets/img/story2.jpg "pinten")
+![pinten](assets/img/story2.jpg "pinten")
 
 
-![pinten2](/assets/img/story2a.jpg "pinten2")
+![pinten2](assets/img/story2a.jpg "pinten2")
 
 
 
 ##is daar wel een fietspad?
-![fietspad](/assets/img/story3.jpg "fietspad")
+![fietspad](assets/img/story3.jpg "fietspad")
