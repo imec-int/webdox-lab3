@@ -1,3 +1,7 @@
+    var w = 1920,h = 1080;
+    var svg;
+    var rectdata = [];
+
 
 function connect() {
     var url = "ws://127.0.0.1:7076"
@@ -32,9 +36,7 @@ function handleWebsocketClose() {
 
 
 function init(){
-    var w = 1920,h = 1080;
-    var svg;
-    var rectdata = [];
+
     svg = d3.select("body").append("svg")
     .attr("width", w)
     .attr("height", h)
@@ -49,14 +51,24 @@ function init(){
 // };
 
 function drawrect(data){
-    svgback.selectAll("rect")
+    svg.selectAll("rect")
         .data(data)
-        .enter
+        .enter()
+        .append("rect")
+        .attr({
+            x: function(d){ return d.x; },
+            y: function(d){ return d.y; },
+            width: function(d){ return d.width; },
+            height: function(d){ return d.height; }
+            })
+        .style("fill", function(d){ return d.RGBfill;})
+
 }
 
 
 
 $(function(){
+
     connect();
     init();
 });
