@@ -1,12 +1,11 @@
-##disclaimer
+##HELLO
+![teletekst](assets/img/teletext.png "magic" )
+<aside class='notes'>researcher! NOT producer!</aside>
 
 
-
-##<h2>A long time from now, in a galaxy far far away</h2>
-![aliens](http://www.pixeljoint.com/files/icons/full/alien_animated.gif "ALIENS")
-
-<h6>(src http://www.pixeljoint.com/pixelart/39566.htm)</h6>
-
+##data?
+![arecibo](assets/img/Arecibo_shifted.png "shifted arecibo" )
+<aside class='notes'>is this data? yes! is this information? not yet	</aside>
 
 
 #data
@@ -14,25 +13,10 @@
 <aside class='notes'></aside>
 
 
+
 #data
 ![breimachine](assets/img/ponskaart.jpg "ponskkaart")
 <aside class='notes'>data contains a story</aside>
-
-
-
-##WOW!
-![](assets/img/wowsignal.jpg)
-(src https://seelio.com/w/aif/persuasive-essay)
-
-
-##later at the data processing farm
-![](https://24.media.tumblr.com/0e2c81d283bab9f7f54d57693b72a180/tumblr_mi8b5zdM0S1qe0nlvo1_1280.jpg)
-
-
-
-#noise vs signal
-![](assets/img/snr.jpg)
-####[Spectrogram] AFX / ΔMi−1 = −∂Σn=1NDi[n][Σj∈C{i}Fji[n − 1] + Fexti[[n−1]]
 
 
 
@@ -112,8 +96,40 @@
 01111001111101001111000
 
 
+##<h2>A long time from now, in a galaxy far far away</h2>
+![aliens](assets/img/alien.gif "ALIENS")
+<h6>(src http://www.pixeljoint.com/pixelart/39566.htm)</h6>
 
-http://www.fullstack.io/choc/
+
+##WOW!
+![](assets/img/wowsignal.jpg)
+(src https://seelio.com/w/aif/persuasive-essay)
+<aside class='notes'>not a lot of data, big story (no computer will soon be able to reconstruct this story)</aside>
+
+
+#noise vs signal
+![](assets/img/snr.jpg)
+####[Spectrogram] AFX / ΔMi−1 = −∂Σn=1NDi[n][Σj∈C{i}Fji[n − 1] + Fexti[[n−1]]
+<aside class='notes'>heuristic, you can 'feel' the story</aside>
+
+
+##at the alien data processing farm
+![](assets/img/centraalbeheer.jpg)
+<aside class='notes'>get me all supercomputers so we can crack this message.. --- wrong!</aside>
+
+
+
+##computers vs humans
+![](assets/img/kasparovVSdeepblue.jpg)
+######[the-chess-master-and-the-computer](http://www.nybooks.com/articles/archives/2010/feb/11/the-chess-master-and-the-computer/?pagination=false)
+
+
+
+##computers are tools
+turn them into an instrument
+
+
+##data exloration instruments
 
 
 
@@ -132,6 +148,10 @@ http://www.fullstack.io/choc/
 
 ##is daar wel een fietspad?
 ![fietspad](assets/img/story3.jpg "fietspad")
+
+
+
+##other instruments in the wild
 
 
 
