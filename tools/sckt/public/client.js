@@ -23,10 +23,15 @@ function handleWebsocketMessage(message) {
             }
     catch(e) { /* do nothing */ }
 
-    if (D3object.type  = "rect") {
+    if (D3object.type  == "rect") {
         console.log(D3object);
         rectdata.push(D3object);
         drawrect(rectdata);
+    }
+    if (D3object.type == "clear"){
+        rectdata = [];
+        d3.selectAll("rect").remove();
+
     }
 };
 
@@ -61,7 +66,7 @@ function drawrect(data){
             width: function(d){ return d.width; },
             height: function(d){ return d.height; }
             })
-        .style("fill", function(d){ return d.RGBfill;})
+        .style("fill", function(d){ return d.rgbfill;})
 
 }
 

@@ -132,3 +132,9 @@ http://www.fullstack.io/choc/
 
 ##is daar wel een fietspad?
 ![fietspad](assets/img/story3.jpg "fietspad")
+
+
+
+##Workshop
+mediumpost
+http://indiemapper.com/app/
