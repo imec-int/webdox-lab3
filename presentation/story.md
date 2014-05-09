@@ -1,17 +1,24 @@
-##HELLO
-![teletekst](assets/img/teletext.png "magic" )
+##@KAOSBEAT
+![kasper jordaens](assets/img/Kaos.jpg "kaos" )
+<br>![big logo](assets/img/iMinds_logo_whitetransparent_RGB_websmall.png)
 <aside class='notes'>researcher! NOT producer!</aside>
 
 
-##data?
+##HELLO
+![teletekst](assets/img/teletext.png "magic" )
+<aside class='notes'>interactivity and technology!</aside>
+
+
+
+##exploring data
 ![arecibo](assets/img/Arecibo_shifted.png "shifted arecibo" )
-<aside class='notes'>is this data? yes! is this information? not yet	</aside>
+<aside class='notes'>is this data? yes! is this information? not yet</aside>
+
 
 
 #data
 ![breimachine](assets/img/ponskaartklein.jpg "ponskkaart")
-<aside class='notes'></aside>
-
+<aside class='notes'>look at it from a different angle/line per line/all at once</aside>
 
 
 #data
@@ -108,8 +115,9 @@
 
 
 #noise vs signal
-![](assets/img/snr.jpg)
-####[Spectrogram] AFX / ΔMi−1 = −∂Σn=1NDi[n][Σj∈C{i}Fji[n − 1] + Fexti[[n−1]]
+![](assets/img/snr.jpg)"
+######[SPECTROGRAM] AFX / ΔMI−1 = −∂ΣN=1NDI[N][ΣJ∈C{I}FJI[N − 1] + FEXTI[[N−1]] 
+[youtube video](https://www.youtube.com/watch?v=wSYAZnQmffg)
 <aside class='notes'>heuristic, you can 'feel' the story</aside>
 
 
@@ -124,37 +132,60 @@
 ######[the-chess-master-and-the-computer](http://www.nybooks.com/articles/archives/2010/feb/11/the-chess-master-and-the-computer/?pagination=false)
 
 
-
 ##computers are tools
-turn them into an instrument
+![](assets/img/Z.jpg)
+<aside class='notes'>turn them into an instrument</aside>
 
 
 ##data exloration instruments
+####REALTIME FEEDBACK
+![](assets/img/modular.jpg)
 
 
 
-##taalgrens
+##tools in the wild
+![](assets/img/crystaldata.jpg)
+<aside class='notes'>not yet another twitter tool</aside>
+
+
+
+##tools on public data
 ![taalgrens](assets/img/story1.jpg "taalgrens")
 
 
-
-##pinten aan het frituur met strava op
-![pinten](assets/img/story2.jpg "pinten")
-
-
-![pinten2](assets/img/story2a.jpg "pinten2")
+##noise or signal?
+![pinten](assets/img/story2a.jpg "pinten")
 
 
+##beersignal!
+![pinten2](assets/img/story2.jpg "pinten2")
 
-##is daar wel een fietspad?
+
+
+##combine sources
 ![fietspad](assets/img/story3.jpg "fietspad")
+<aside class='notes'>unclear if I should plan my bike trip here</aside>
 
 
+##instruments in the wild
 
-##other instruments in the wild
+
+##RAW
+![](assets/img/Raw.jpg)
+[RAW](http://raw.densitydesign.org/)
+
+
+##CHOC
+![](assets/img/choc.jpg)
+[choc](http://www.fullstack.io/choc/)
+
+
+##reverse Story hacking
+![](assets/img/getthedata.jpg)
+[the guardian provides the data](http://www.theguardian.com/news/datablog/2013/sep/11/uk-rail-suicides-decade-data)
 
 
 
 ##Workshop
-mediumpost
-http://indiemapper.com/app/
+![](assets/img/Arecibo_message.svg.png)
+![full explanation](https://medium.com/iminds-mix/e1e1a51bf103)
