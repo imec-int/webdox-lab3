@@ -5,7 +5,7 @@
 
 
 ##HELLO
-![teletekst](assets/img/teletext.png "magic" )
+![teletekst](assets/img/teletext.jpg "magic" )
 <aside class='notes'>interactivity and technology!</aside>
 
 
@@ -161,10 +161,10 @@
 ![pinten2](assets/img/story2.jpg "pinten2")
 
 
-
 ##combine sources
 ![fietspad](assets/img/story3.jpg "fietspad")
 <aside class='notes'>unclear if I should plan my bike trip here</aside>
+
 
 
 ##instruments in the wild
@@ -180,12 +180,24 @@
 [choc](http://www.fullstack.io/choc/)
 
 
+##Wolfram
+![](assets/img/Wolfram_Alpha.jpg)
+<br>[Wolfram Alpha](https://www.wolframalpha.com/)
+
+
 ##reverse Story hacking
 ![](assets/img/getthedata.jpg)
-[the guardian provides the data](http://www.theguardian.com/news/datablog/2013/sep/11/uk-rail-suicides-decade-data)
+<br>[the guardian provides the data](http://www.theguardian.com/news/datablog/2013/sep/11/uk-rail-suicides-decade-data)
 
+
+
+##Flow Based Data exploration
+![](assets/img/Flowhub.jpg)
 
 
 ##Workshop
 ![](assets/img/Arecibo_message.svg.png)
-![full explanation](https://medium.com/iminds-mix/e1e1a51bf103)
+<br>[full explanation](https://medium.com/iminds-mix/e1e1a51bf103)
+
+
+##thank you!
